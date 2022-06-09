@@ -1,0 +1,158 @@
+.redsection{
+    width: 100%;
+    height: 500px;
+    background-color: #ED4C5C;
+    display: flex;
+    align-items: center;
+
+}
+
+body, h1{
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.redsection h1{
+    font-size: 36px;
+    font-weight: 600;
+    color: white;
+}
+.redsection p{
+    color: white;
+    font-size: 14px;
+    padding-right: 40px;
+    margin-top: 45px;
+    font-family: Lato;
+}
+
+.text1{
+    padding-left: 165px;
+    
+}
+
+.icon{
+    padding-top: 40px;
+}
+
+.slider{
+    padding-left: 81px;
+}
+
+.contact h1{
+    color: black;
+    font-size: 36px;
+}
+
+.contact{
+    width: 100%;
+    height: 500px;
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+
+.contacttext{
+    margin-left: 176px;
+}
+
+.contacttext p{
+    font-size: 14px;
+}
+
+input{
+    width: 255px;
+    height: 60px;
+    border-radius: 6px;
+    border: 1px solid #333333;
+    font-size: 16px;
+    color: #8993A1;
+    padding-left: 30px;
+    margin-left: 20px;
+    margin-bottom: 24px;
+}
+
+.inputs{
+    margin-left: 114px;
+}
+
+input.phone{
+    width: 566px;
+}
+
+input.selectservice{
+    width: 566px;
+}
+
+select{
+    width: 600px;
+    height: 60px;
+    font-size: 16px;
+    border-radius: 6px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    -ms-appearance: none;
+    appearance: none;
+    padding-left: 30px;
+    margin-left: 20px;
+    background: url("./ChevronDown\(E70D\).png");
+   background-repeat: no-repeat;
+   background-position: right;
+   background-position-x: 565px;
+   border: 1px solid #333333;
+   color: #8993A1;
+   margin-bottom: 24px;
+}
+
+button{
+    width: 160px;
+    height: 50px;
+    margin-left: 20px;
+    border: none;
+    background-color: #ED4C5C;
+    color:white;
+    font-size: 14px;
+    border-radius: 6px;
+}
+
+img{
+    cursor: pointer;
+    margin-right: 24px;
+    
+}
+
+.icons{
+align-items: center;
+margin-top: 40px;
+}
+
+footer{
+    width: 100%;
+    height: 500px;
+    background-color: #FAFAFA;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    position: absolute;
+    padding-left: 166px;
+    padding-right: 166px;
+    padding-top: 85px;
+    box-sizing: border-box;
+}
+
+.textbottom{
+    margin-top: 140px;
+}
+
+.adress{
+    
+    
+}
+
+.servicess p{
+    font-size: 14px;
+}
+
+.adress p{
+    font-size: 14px;
+}
+
