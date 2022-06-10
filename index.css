@@ -4,7 +4,7 @@
     background-color: #ED4C5C;
     display: flex;
     align-items: flex-start;
-    justify-content: space-between;
+    justify-content: space-around;
     position: relative;
 
 }
@@ -53,16 +53,21 @@ body, h1{
     background-color: #ffffff;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-around;
     position: relative;
+    
+    
 }
 
 .contacttext{
-    margin-left: 176px;
+    margin: 0 auto;
+    
 }
+
 
 .contacttext p{
     font-size: 14px;
+    
 }
 
 input{
